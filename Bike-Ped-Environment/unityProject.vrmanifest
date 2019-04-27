@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.bikepedenvironment.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\ORCL\\Desktop\\bike-ped-safety\\Bike-Ped-Environment\\actions.json",
+      "action_manifest_path": "C:\\Users\\Neel\\Desktop\\bike-ped-safety\\Bike-Ped-Environment\\actions.json",
       "strings": {
         "en_us": {
           "name": "Bike-Ped-Environment [Testing]"
